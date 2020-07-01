@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+}
+.bg_body{
+	background-color: #ffffff;
+}
+.my_img1{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+my_font1{
+	font-size: 12px;
+	color: #c7c7c7;
+}
+ul li{
+	border-bottom: 1px solid #E5E5E5;
+}
+ul li a{
+	padding-left: 15px;
+	height: 45px;
+	line-height: 45px;
+	color: #666;
+	font-size: 14px;
+}
+.my_div{
+	background-color: #3156A3;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 10px;
+}
